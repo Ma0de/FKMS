@@ -1,0 +1,66 @@
+# Visual Studio / WDK build output files
+*.tlog
+*.lastbuildstate
+*.unsuccessfulbuild
+
+# Build logs
+CL.*.tlog
+CL.read.*.tlog
+CL.write.*.tlog
+DrvCat.*.tlog
+drvcat.*.tlog
+inf2cat*.tlog
+Inf2Cat.*.tlog
+link.*.tlog
+signtool.*.tlog
+stampinf.*.tlog
+tracewpp.*.tlog
+
+# Specific patterns for the files you listed
+Cl.items.tlog
+CL.read.1.tlog
+CL.write.1.tlog
+DrvCat.command.1.tlog
+drvcat.read.1.tlog
+drvcat.write.1.tlog
+FUCKMSFT.lastbuildstate
+inf2cat-expand.*.tlog
+inf2cat-expand.read.1.tlog
+inf2cat-expand.write.1.tlog
+Inf2Cat.command.1.tlog
+inf2cat.read.1.tlog
+inf2cat.write.1.tlog
+link.command.1.tlog
+link.read.1.tlog
+link.secondary.1.tlog
+link.write.1.tlog
+signtool.command.1.tlog
+signtool.read.1.tlog
+signtool.timestamp.1.tlog
+signtool.write.1.tlog
+stampinf.command.1.tlog
+stampinf.read.1.tlog
+stampinf.write.1.tlog
+tracewpp.command.1.tlog
+tracewpp.read.1.tlog
+tracewpp.write.1.tlog
+
+# Common Visual Studio output directories
+[Dd]ebug/
+[Rr]elease/
+x64/
+[Dd]ebug[xX]64/
+[Rr]elease[xX]64/
+[Ww]in32/
+[Dd]ebug Win32/
+[Rr]elease Win32/
+
+# Visual Studio IntelliSense files
+*.ipch
+.vs/
+.vs/**/*
+.ipch/
+Debug/
+Release/
+x64/
+x86/
